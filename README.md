@@ -10,7 +10,8 @@
 
 Software Developer based in Montréal, focused on building software at the intersection of modern UI, backend services, embedded Linux and hardware-oriented systems.
 
-<img align="right" width="405" height="236" alt="image" src="https://gist.github.com/user-attachments/assets/2bdce7a9-6567-4631-ac04-5e23904b3d93" />
+<img align="right" width="405" height="236" alt="image" src="https://github.com/user-attachments/assets/550c6bfc-6c2b-422e-a0ee-ed77387167c0" />
+
 
 
 - 💻 I work with **Flutter/Dart**, **C#/.NET**, **Python**, **Linux** and developer tooling.
