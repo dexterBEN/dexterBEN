@@ -1,16 +1,27 @@
-## Hi there 👋
+<!---
+  BENONI Dexter Flutter CV example(In progress)
+  If you can't see it clearly copy and past the followin link:
+  https://dartpad.dev/518869362dafac86bb98ba74138e2d7e
+*/
+//BENONI Dexter Flutter CV example(In progress)
+--->
 
-<!--
-**dexterBEN/dexterBEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Dexter Benoni
 
-Here are some ideas to get you started:
+Software Developer based in Montréal, focused on building software at the intersection of modern UI, backend services, embedded Linux and hardware-oriented systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" width="405" height="236" alt="image" src="https://gist.github.com/user-attachments/assets/2bdce7a9-6567-4631-ac04-5e23904b3d93" />
+
+
+- 💻 I work with **Flutter/Dart**, **C#/.NET**, **Python**, **Linux** and developer tooling.
+
+- 🧩 I enjoy connecting user interfaces with backend services, system APIs and lower-level technologies.
+
+- 🔌 Interested in **embedded Linux**, **MQTT**, **gRPC/ProtoBuf**, **DBus** and hardware/software integration.
+
+- 🧪 I like building tools that make complex systems easier to test, visualize and understand.
+
+- ⚙️ Currently exploring **FPGA/VHDL**, **PYNQ-Z2**, interactive visual tools, and Flutter-based technical demos.
+
+Connect with me on [LinkedIn](https://ca.linkedin.com/in/dexter-benoni).
+
