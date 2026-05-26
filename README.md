@@ -24,5 +24,4 @@ Software Developer based in Montréal, focused on building software at the inter
 
 - ⚙️ Currently exploring **FPGA/VHDL**, **PYNQ-Z2**, interactive visual tools, and Flutter-based technical demos.
 
-Connect with me on [LinkedIn](https://ca.linkedin.com/in/dexter-benoni).
 
