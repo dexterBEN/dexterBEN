@@ -14,7 +14,7 @@ Software Developer based in Montréal, focused on building software at the inter
 
 
 
-- 💻 I work with **Flutter/Dart**, **C#/.NET**, **Python**, **Linux** and developer tooling.
+- 💻 I build software across Flutter/Dart, C#/.NET, Python and JavaScript/TypeScript, with a strong interest in embedded Linux, backend services and developer tooling.
 
 - 🧩 I enjoy connecting user interfaces with backend services, system APIs and lower-level technologies.
 
