@@ -22,6 +22,6 @@ Software Developer based in Montréal, focused on building software at the inter
 
 - 🧪 I like building tools that make complex systems easier to test, visualize and understand.
 
-- ⚙️ Currently brush-up my knowledges/skills in **FPGA/VHDL** with **PYNQ-Z2**.
+- ⚙️ Currently rebuilding my **FPGA/VHDL** foundations through hands-on projects with a **PYNQ-Z2** board.
 
 
