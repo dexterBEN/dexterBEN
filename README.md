@@ -10,7 +10,7 @@
 
 Software Developer based in Montréal, focused on building software at the intersection of modern UI, backend services, embedded Linux and hardware-oriented systems.
 
-<img align="right" width="810" height="472" alt="image" src="https://github.com/user-attachments/assets/550c6bfc-6c2b-422e-a0ee-ed77387167c0" />
+<img align="right" width="505" height="336" alt="image" src="https://github.com/user-attachments/assets/550c6bfc-6c2b-422e-a0ee-ed77387167c0" />
 
 
 
