@@ -72,7 +72,7 @@ Software Developer based in Montréal, focused on building software at the inter
     <img src="https://cdn.simpleicons.org/mqtt/00E5FF" alt="MQTT" width="40" height="40"/>
   </a>
  <a href="https://grpc.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" alt="gRPC" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" alt="gRPC" width="40" height="40"/>
 </a>
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" width="40" height="40"/>
