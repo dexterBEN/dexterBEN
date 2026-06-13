@@ -10,7 +10,7 @@
 
 Software Developer based in Montréal, focused on building software at the intersection of modern UI, backend services, embedded systems and hardware-oriented tooling.
 
-<img align="right" width="405" height="236" alt="image" src="https://github.com/user-attachments/assets/550c6bfc-6c2b-422e-a0ee-ed77387167c0" />
+<img align="right" width="405" height="236" alt="Developer banner" src="https://github.com/user-attachments/assets/550c6bfc-6c2b-422e-a0ee-ed77387167c0" />
 
 * 💻 I build software across **Flutter/Dart**, **C#/.NET**, **Python** and **JavaScript/TypeScript**, with a strong interest in embedded Linux, backend services and developer tooling.
 
@@ -48,6 +48,12 @@ Software Developer based in Montréal, focused on building software at the inter
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
+  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
@@ -71,13 +77,16 @@ Software Developer based in Montréal, focused on building software at the inter
   <a href="https://mqtt.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/mqtt/00E5FF" alt="MQTT" width="40" height="40"/>
   </a>
- <a href="https://grpc.io/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" alt="gRPC" width="40" height="40"/>
-</a>
+  <a href="https://grpc.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" alt="gRPC" width="40" height="40"/>
+  </a>
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" width="40" height="40"/>
   </a>
+  <a href="https://www.pynq.io/boards.html" target="_blank" rel="noreferrer">
+    <img src="assets/icons/pynq.png" alt="PYNQ-Z2" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/VHDL" target="_blank" rel="noreferrer">
+    <img src="assets/icons/vhdl.svg" alt="VHDL" width="40" height="40"/>
+  </a>
 </p>
-
-
-
