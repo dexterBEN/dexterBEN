@@ -8,7 +8,7 @@
 
 # Hi 👋, I'm Dexter Benoni
 
-Software Developer based in Montréal, focused on building software at the intersection of modern UI, backend services, embedded systems and hardware-oriented tooling.
+Software Developer based in Montréal, focused on building software mixing UI, backend, embedded systems and hardware-oriented tooling.
 
 <img align="right" width="405" height="236" alt="Developer banner" src="https://github.com/user-attachments/assets/550c6bfc-6c2b-422e-a0ee-ed77387167c0" />
 
