@@ -84,7 +84,7 @@ Software Developer based in Montréal, focused on building software mixing UI, b
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" width="40" height="40"/>
   </a>
   <a href="https://www.pynq.io/boards.html" target="_blank" rel="noreferrer">
-    <img src="assets/icons/pynq.png" alt="PYNQ-Z2" height="40"/>
+    <img src="https://global.discourse-cdn.com/digikey/original/2X/0/0e0d1d2f72e27740e542a14603ab56e1a5e60a6a.png" alt="PYNQ-Z2" height="40"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/VHDL" target="_blank" rel="noreferrer">
     <img src="assets/icons/vhdl.svg" alt="VHDL" width="40" height="40"/>
