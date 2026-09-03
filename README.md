@@ -78,7 +78,7 @@ Software Developer based in Montréal, focused on building software mixing UI, b
     <img src="https://cdn.simpleicons.org/mqtt/00E5FF" alt="MQTT" width="40" height="40"/>
   </a>
   <a href="https://mqtt.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/tensorflow/00E5FF" alt="tensorflow" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/tensorflow" alt="tensorflow" width="40" height="40"/>
   </a>
   <a href="https://grpc.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" alt="gRPC" width="40" height="40"/>
