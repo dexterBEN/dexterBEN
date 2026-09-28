@@ -90,6 +90,6 @@ Software Developer based in Montréal, focused on building software mixing UI, b
     <img src="https://us1.discourse-cdn.com/flex019/uploads/pynq1/original/2X/e/e717fcb3e91cd198c1fe867a53858cf57aa8b2bb.png" alt="PYNQ-Z2" height="40"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/VHDL" target="_blank" rel="noreferrer">
-    <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/8f5e8d4e-ee96-42d1-aa4f-4b6641d2a405" />
+    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/291c3cd3-0475-487d-a36e-74a159d54bd8" />
   </a>
 </p>
